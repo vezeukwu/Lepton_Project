@@ -1,6 +1,8 @@
 # Lepton Revenue and Profit Analysis Project
 
-![image](https://github.com/user-attachments/assets/ead0525f-4892-4b0b-ba64-03094d6f3507)
+
+
+![image](https://github.com/user-attachments/assets/33f177c5-1882-4a65-91ac-b15b34de8505) ![image](https://github.com/user-attachments/assets/1d9dc266-b9f7-46ae-8e4d-56f09b5db6c3) 
 
 
 
