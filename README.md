@@ -1,6 +1,6 @@
 # Lepton Revenue and Profit Analysis Project
 
-![image](https://github.com/user-attachments/assets/d6b2c75c-13e5-4f3b-b9ab-a72f28c1fdcf) ![image](https://github.com/user-attachments/assets/1d9dc266-b9f7-46ae-8e4d-56f09b5db6c3) ![image](https://github.com/user-attachments/assets/33f177c5-1882-4a65-91ac-b15b34de8505)
+ ![image](https://github.com/user-attachments/assets/1d9dc266-b9f7-46ae-8e4d-56f09b5db6c3) ![image](https://github.com/user-attachments/assets/33f177c5-1882-4a65-91ac-b15b34de8505)
 
 ## Introduction
 Lepton Enterprise is involved in office supplies and technology retail business, catering to various segments like consumers, corporate clients, and home offices. 
